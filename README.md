@@ -1,1 +1,1 @@
-# Test CI/CD pipeline  🚀
+# Test CI/CD pipeline 🚀
