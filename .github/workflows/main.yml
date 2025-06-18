@@ -15,7 +15,7 @@ jobs:
     - name: Run Tests
       run: |
         cd backend
-        pip install fastapi uvicorn pytest
+        pip install fastapi uvicorn pytest httpx
         pytest
 
     - name: Build Docker Image
